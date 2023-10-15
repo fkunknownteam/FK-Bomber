@@ -2,7 +2,7 @@ Sms Bomber 💣
 
 <h3> Run Command: </h3>
 
-* apt-get install python3
+* apt-get install python
 
 * apt-get install git
 
