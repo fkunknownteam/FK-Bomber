@@ -12,7 +12,7 @@ Sms Bomber 💣
 
 * python sms_bomber.py
 
-* Oneshot command
+* # Oneshot command
 ```
 apt-get install python && apt-get install git && git clone https://github.com/fkunknownteam/sms_bomber && cd sms_bomber && python sms_bomber.py 
 ```
