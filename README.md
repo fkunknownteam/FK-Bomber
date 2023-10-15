@@ -6,27 +6,19 @@ Sms Bomber 💣
 
 * apt-get install git
 
-* git clone 
+* git clone https://github.com/fkunknownteam/sms_bomber
 
 * cd sms_bomber
 
-* python3 sms_bomber.py
+* python sms_bomber.py
 
-# CAM-HACKERS
+# Sms-Bomber
 
 <img src="https://github.com/AngelSecurityTeam/Cam-Hackers/blob/master/cap01new.jpg">
 
-#
+# Sms-Bomber
 
 <img src="https://github.com/AngelSecurityTeam/Cam-Hackers/blob/master/cap02new.jpg">
-
-# CAM-HACKERS
-
-<img src="https://github.com/AngelSecurityTeam/Cam-Hackers/blob/master/camfoto.png">
-
-# CAM-HACKERS
-
-<img src="https://github.com/AngelSecurityTeam/Cam-Hackers/blob/master/camfoto2.png">
 
 <h3> Paypal donations: </h3>
 
