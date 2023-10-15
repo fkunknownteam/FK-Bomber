@@ -14,11 +14,11 @@ Sms Bomber 💣
 
 # Sms-Bomber
 
-<img src="https://github.com/AngelSecurityTeam/Cam-Hackers/blob/master/cap01new.jpg">
+<img src="https://github.com/fkunknownteam/sms_bomber/blob/main/IMG_20231015_225013.jpg">
 
 # Sms-Bomber
 
-<img src="https://github.com/AngelSecurityTeam/Cam-Hackers/blob/master/cap02new.jpg">
+<img src="https://github.com/fkunknownteam/sms_bomber/blob/main/IMG_20231015_225040.jpg">
 
 <h3> Paypal donations: </h3>
 
