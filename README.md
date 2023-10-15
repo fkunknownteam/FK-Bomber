@@ -12,6 +12,9 @@ Sms Bomber 💣
 
 * python sms_bomber.py
 
+#### Options
+### Features:
+
 # Sms-Bomber
 
 <img src="https://github.com/fkunknownteam/sms_bomber/blob/main/IMG_20231015_225013.jpg">
