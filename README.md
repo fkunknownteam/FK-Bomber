@@ -12,10 +12,11 @@ Sms Bomber 💣
 
 * python sms_bomber.py
 
-#### Options
-### Features:
-gjj jihfui jijh
-
+#### Or, directly run
+### Pip
+ - `pip3 install pyphisher` [For Termux]
+ - `sudo pip3 install pyphisher  --break-system-packages` [For Linux]
+ - `pyphisher
 # Sms-Bomber
 
 <img src="https://github.com/fkunknownteam/sms_bomber/blob/main/IMG_20231015_225013.jpg">
