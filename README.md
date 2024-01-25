@@ -6,11 +6,11 @@ Sms Bomber 💣
 
 * apt-get install git
 
-* git clone https://github.com/fkunknownteam/sms_bomber
+* git clone https://github.com/fkunknownteam/FK-Bomber
 
-* cd sms_bomber
+* cd FK-Bomber
 
-* python sms_bomber.py
+* python bomber_main.py
 
 * # Oneshot command
 ```
